@@ -11,57 +11,50 @@
 <img src="./img/dio.png" alt="DIO Logo" width="200"/>
 <img src="./img/LogoMLS.jpg" alt="Machine Learning Specialist Logo" width="200"/>
 
-# Machine Learning Specialist Training
+# How to Create a Professional E-book with ChatGPT
 
-This repository contains materials and exercises related to the Machine Learning Specialist training offered by [DIO](https://web.dio.me/track/formacao-machine-learning-specialist?tab=about).
+This repository contains a practical guide to creating a technical e-book efficiently and professionally, using ChatGPT as a productivity-boosting tool.
 
-## Description
+## Introduction
 
-The Machine Learning Specialist training aims to train professionals to work in the field of Machine Learning, covering everything from basic concepts to advanced techniques and practical applications.
+Have you ever thought about writing a technical book? Creating an e-book is an excellent way to share your knowledge in an accessible and practical manner. This guide was developed to help you transform the content you already master into a professional e-book, without the need for complex tools like Illustrator or Photoshop.
 
-## Content
+With ChatGPT, you can accelerate the content refinement process and focus on what really matters: sharing your knowledge clearly and effectively.
 
-- Introduction to Machine Learning
-- Data Preprocessing
-- Regression Models
-- Classification Models
-- Neural Networks
-- Deep Learning
-- Practical Projects
-  - [Dimensionality Reduction in Images for Neural Networks](https://github.com/vicssb/Dimensionality-Reduction-in-Images-for-Neural-Networks)
-  - [Training Neural Networks with Transfer Learning](https://github.com/vicssb/Training-Neural-Networks-with-Transfer-Learning)
-  - [Calculation of learning evaluation metrics](https://github.com/vicssb/calculation-of-learning-evaluation-metrics)
-  - [Creating a Database and Training the YOLO Network](https://github.com/vicssb/Object-detection-with-the-YOLO-network.git)
+## What you will learn
 
-## Prerequisites
+- How to prepare the content of your e-book
+- How to package and design the content professionally
+- How to use simple and accessible tools to create your e-book
+- Tips for sharing your e-book as open source and increasing your professional credibility
 
-- Basic programming knowledge
-- Basic understanding of statistics and probability
-- Familiarity with Python
+## Why create an e-book?
 
-## How to Use
+- **Boost your productivity:** Use ChatGPT to speed up the creation process.
+- **Strengthen your credibility:** Share your knowledge and position yourself as an authority in your field.
+- **Share with the world:** Create an open-source project to showcase your skills to recruiters and colleagues.
 
-1. Clone this repository:
-    ```sh
-    git clone https://github.com/your-username/your-repository.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd your-repository
-    ```
-3. Follow the instructions in each module to run the examples and exercises.
+## Required Tools
 
-## License
+- ChatGPT (the free version is sufficient)
+- Simple tools already installed on your machine (like text editors)
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+## How to start
 
-## Versioning
+1. **Plan your content:** Choose a topic you master and organize the main ideas.
+2. **Use ChatGPT:** Use ChatGPT to refine and structure your content.
+3. **Package and design:** Follow the instructions in this guide to create a professional e-book.
+4. **Share:** Publish your e-book as open source or commercialize it.
 
-1.0.0
+## Benefits of Open Source
 
-## Author
+By sharing your e-book as open source, you not only position your professional image but also contribute to the community, creating an excellent project to showcase to recruiters and colleagues.
 
-* **Victor Sérgio Silva Barros**:
+## Shall we start?
+
+Follow this guide and learn how to create an e-book from scratch using simple and practical tools. Transform your knowledge into valuable content and share it with the world!
+
+---
 
 <p align="left">
   <a href="mailto:vicssb@gmail.com" alt="Gmail" target="_blank">
@@ -70,10 +63,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
   <a href="https://www.linkedin.com/in/victor-sergio-silva-barros/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-sergio-silva-barros/" /></a>
 
-  <a href="https://wa.me/+5512981328278" alt="WhatsApp" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/+5512987085327"/></a>
-
-</p>
 
 <p>Please follow GitHub and join us!
 Thanks for visiting and happy coding!</p>
