@@ -33,9 +33,40 @@ Vamos ver junto como construir um e-book do zero?
 
 - traduza o texto para o Inglês
 
-- coloque as imagens ./img/dio.png e LogoMLS.jpg
+# Criação do título
 
-# Criação do readme.md para o projeto Dimensionality Reduction in Images for Neural Networks
+crie um titulo de um ebook sobre o tema As leis de ohms e associação de resistores, o ebook é do nicho do curso técnico de eletricidade e subnicho é do resolver exercícios. o titulo deve ser épico o curto. me liste 5 variações do titulos
 
-- crie um readme.md com base em: https://web.dio.me/lab/desafio-de-projeto-reducao-de-dimensionalidade-em-imagens-para-redes-neurais/learning/2ab47376-507c-416f-8eee-07e6dd1d696e
+Mestre da Corrente: Domine Ohm e Resistores na Prática
+
+# Imagem da Capa
+
+Criar uma imagem para a capa de um ebook com o título o seguinte título Mestre da Corrente: Domine Ohm e Resistores na Prática
+
+# Insert do Conteúdo
+
+faça um texto para ebook, com foco em curso técnico, listando os principais tópicos das leis de Ohms e associações de resistores com examplos e exercícios.
+
+{REGRAS}
+
+> Explique sempre de uma maneira simples
+
+> Deixe o texto enxuto
+
+> Sempre traga exemplos da aplicação em contextos reais
+
+> sempre deixe um titulo sugestivo por topico
+
+# Exercícios
+
+Crie 5 exercícios de circuitos com esquemas visuais dos circuitos.
+
+Explique cada etapa do cálculo com detalhes claros.
+
+Aplique a Lei de Ohm para encontrar valores de corrente, tensão e resistencia.
+
+Use resistores em série e paralelo em exemplos.
+
+Inclua circuitos mistos para praticar desafios complexos.
+
 
