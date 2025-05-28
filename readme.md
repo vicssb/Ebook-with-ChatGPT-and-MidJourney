@@ -92,6 +92,10 @@ Use resistors in series and parallel in examples.
 
 Include mixed circuits to practice complex challenges.
 
+
+## Presentation Template
+
+https://github.com/vicssb/Ebook-with-ChatGPT-and-MidJourney/blob/74c8b8b7d2562a93e01e580a5b1e6c1da4cc235d/ebook%20MESTRE%20DA%20CORRENTE%20-%20DOMINE%20OHM%20E%20RESISTORES%20NA%20PR%C3%81TICA.pptx
 ---
 
 <p align="left">
