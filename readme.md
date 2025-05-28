@@ -54,6 +54,44 @@ By sharing your e-book as open source, you not only position your professional i
 
 Follow this guide and learn how to create an e-book from scratch using simple and practical tools. Transform your knowledge into valuable content and share it with the world!
 
+## Prompts
+
+### Title Creation
+
+Create a title for an ebook on the topic Ohm's Laws and Resistor Associations. The ebook is in the niche of the technical course in electricity and the sub-niche is solving exercises. The title should be epic and short. List 5 variations of the title
+
+Current Master: Master Ohm and Resistors in Practice
+
+### Cover Image
+
+Create an image for the cover of an ebook with the following title Current Master: Master Ohm and Resistors in Practice
+
+### Content Insert
+
+Write a text for an ebook, focused on technical courses, listing the main topics of Ohm's Laws and resistor associations with examples and exercises.
+
+{RULES}
+
+> Always explain in a simple way
+
+> Keep the text concise
+
+> Always provide examples of application in real contexts
+
+> Always include a suggestive title for each topic
+
+### Exercises
+
+Create 5 circuit exercises with visual diagrams of the circuits.
+
+Explain each step of the calculation in clear detail.
+
+Apply Ohm's Law to find values ​​of current, voltage and resistance.
+
+Use resistors in series and parallel in examples.
+
+Include mixed circuits to practice complex challenges.
+
 ---
 
 <p align="left">

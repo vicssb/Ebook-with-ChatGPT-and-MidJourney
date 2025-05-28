@@ -41,7 +41,7 @@ Mestre da Corrente: Domine Ohm e Resistores na Prática
 
 # Imagem da Capa
 
-Criar uma imagem para a capa de um ebook com o título o seguinte título Mestre da Corrente: Domine Ohm e Resistores na Prática
+Create an image for the cover of an ebook with the following title Current Master: Master Ohm and Resistors in Practice
 
 # Insert do Conteúdo
 

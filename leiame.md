@@ -53,6 +53,47 @@ Ao compartilhar seu e-book de maneira open source, você não apenas posiciona s
 
 Siga este guia e descubra como criar um e-book do zero, utilizando ferramentas simples e práticas. Transforme seu conhecimento em um conteúdo valioso e compartilhe-o com o mundo!
 
+## Prompts
+
+### Criação do título
+
+crie um titulo de um ebook sobre o tema As leis de ohms e associação de resistores, o ebook é do nicho do curso técnico de eletricidade e subnicho é do resolver exercícios. o titulo deve ser épico o curto. me liste 5 variações do titulos
+
+Mestre da Corrente: Domine Ohm e Resistores na Prática
+
+### Imagem da Capa
+
+Create an image for the cover of an ebook with the following title Current Master: Master Ohm and Resistors in Practice
+
+### Insert do Conteúdo
+
+faça um texto para ebook, com foco em curso técnico, listando os principais tópicos das leis de Ohms e associações de resistores com examplos e exercícios.
+
+{REGRAS}
+
+> Explique sempre de uma maneira simples
+
+> Deixe o texto enxuto
+
+> Sempre traga exemplos da aplicação em contextos reais
+
+> sempre deixe um titulo sugestivo por topico
+
+### Exercícios
+
+Crie 5 exercícios de circuitos com esquemas visuais dos circuitos.
+
+Explique cada etapa do cálculo com detalhes claros.
+
+Aplique a Lei de Ohm para encontrar valores de corrente, tensão e resistencia.
+
+Use resistores em série e paralelo em exemplos.
+
+Inclua circuitos mistos para praticar desafios complexos.
+
+
+
+
 ---
 
 <p align="left">
