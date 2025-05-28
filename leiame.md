@@ -93,8 +93,18 @@ Inclua circuitos mistos para praticar desafios complexos.
 
 ## Template da apresentação
 
-https://github.com/vicssb/Ebook-with-ChatGPT-and-MidJourney/blob/74c8b8b7d2562a93e01e580a5b1e6c1da4cc235d/ebook%20MESTRE%20DA%20CORRENTE%20-%20DOMINE%20OHM%20E%20RESISTORES%20NA%20PR%C3%81TICA.pptx
+<p align="left">
+  <a href="https://github.com/vicssb/Ebook-with-ChatGPT-and-MidJourney/blob/74c8b8b7d2562a93e01e580a5b1e6c1da4cc235d/ebook%20MESTRE%20DA%20CORRENTE%20-%20DOMINE%20OHM%20E%20RESISTORES%20NA%20PR%C3%81TICA.pptx" alt="Download Ebook" target="_blank">
+  <img src="https://img.shields.io/badge/-Download%20Ebook-0078D4?style=flat-square&labelColor=0078D4&logo=microsoft&logoColor=white&link=https://github.com/vicssb/Ebook-with-ChatGPT-and-MidJourney/blob/74c8b8b7d2562a93e01e580a5b1e6c1da4cc235d/ebook%20MESTRE%20DA%20CORRENTE%20-%20DOMINE%20OHM%20E%20RESISTORES%20NA%20PR%C3%81TICA.pptx" /></a>
+</p>
 
+
+## Download Ebook
+
+<p align="left">
+  <a href="https://github.com/vicssb/Ebook-with-ChatGPT-and-MidJourney/blob/main/ebook%20MESTRE%20DA%20CORRENTE%20-%20DOMINE%20OHM%20E%20RESISTORES%20NA%20PR%C3%81TICA.pdf" alt="Download Ebook PDF" target="_blank">
+  <img src="https://img.shields.io/badge/-Download%20Ebook%20PDF-0078D4?style=flat-square&labelColor=0078D4&logo=microsoft&logoColor=white&link=https://github.com/vicssb/Ebook-with-ChatGPT-and-MidJourney/blob/main/ebook%20MESTRE%20DA%20CORRENTE%20-%20DOMINE%20OHM%20E%20RESISTORES%20NA%20PR%C3%81TICA.pdf" /></a>
+</p>
 
 ---
 
